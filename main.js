@@ -6,12 +6,12 @@ document.getElementById("cuerpo").onload = function(){
 
 //alerta fuera del input
 document.getElementById("cajita").addEventListener("mouseout",function(){
-	alert("Ya no estás sobre mí!");
+	alert("¡Ahora estás sobre el morado!");
 });
 
 //alerta sobre el input
 document.getElementById("cajita").addEventListener("mouseover",function(){
-	alert("Estás sobre mí!");
+	alert("¡Ahora estás sobre el amarillo!");
 });
 
 

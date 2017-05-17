@@ -1,0 +1,17 @@
+body{
+	background-color: #7004A6;
+	text-align: center;
+	font-family: 'Oregano', cursive;
+	font-size: 40px;
+	color: #FEE5FD;
+}
+
+#cajita{
+	background-color: #F5F54F;
+	margin-top: 20%;
+	width: 400px;
+	height: 20px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	box-shadow: 0 1px 10px 5px whitesmoke;
+}
